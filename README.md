@@ -5,9 +5,13 @@ Simples projeto criado em ReactJS para usar diaramente para anotar pequenas tare
 Técnologias Utilizadas:
 
 - React.js 
+
 - SASS 
+
 - TypeScript 
 
 Demo
 
 ![Screenshot](screen.gif)
+
+Projeto realizado durante a jornada Ignite da @rocketseat.
