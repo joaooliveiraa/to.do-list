@@ -8,6 +8,6 @@ Técnologias Utilizadas:
 - SASS 
 - TypeScript 
 
-#Demo
+Demo
 
 ![Screenshot](screen.gif)
