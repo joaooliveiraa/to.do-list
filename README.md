@@ -1,6 +1,6 @@
 # Projeto to.doList
 
-Simples projeto criado em ReactJS para usar diaramente para anotar pequenas tarefas de estudo.
+Simples projeto criado em ReactJS para usar diariamente para anotar pequenas tarefas de estudo.
 
 Técnologias Utilizadas:
 
